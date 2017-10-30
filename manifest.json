@@ -7,5 +7,7 @@
     { "src": "icon-144.png", "sizes": "144x144", "type": "image/png" }
   ],
   "start_url": "/?utm_source=homescreen",
-  "display": "standalone"
+  "display": "standalone",
+  "background_color": "red",
+  "theme_color": "blue"
 }
