@@ -9,5 +9,6 @@
   "start_url": "/?utm_source=homescreen",
   "display": "standalone",
   "background_color": "red",
-  "theme_color": "blue"
+  "theme_color": "blue",
+  "orientation": "any"
 }
